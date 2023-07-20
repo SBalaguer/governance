@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "capi": "^0.1.1-beta.1"
+  },
+  "scripts": {
+    "capi": "capi"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
